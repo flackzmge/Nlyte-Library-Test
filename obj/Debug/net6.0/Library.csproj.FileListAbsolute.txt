@@ -1,0 +1,357 @@
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.csproj.AssemblyReference.cache
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.AssemblyInfoInputs.cache
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.AssemblyInfo.cs
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.csproj.CoreCompileInputs.cache
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.MvcApplicationPartsAssemblyInfo.cs
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.MvcApplicationPartsAssemblyInfo.cache
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/appsettings.Development.json
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/appsettings.json
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Resources/2701 - Moby Dick.txt
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Resources/2852 - The Hound Of The Baskervilles.txt
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Resources/98 - A Tale Of Two Cities.txt
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Library.staticwebassets.runtime.json
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Library
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Library.deps.json
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Library.runtimeconfig.json
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Library.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Library.pdb
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/testhost.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/nathangilbert/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/scopedcss/bundle/Library.styles.css
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.csproj.CopyComplete
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.dll
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/refint/Library.dll
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.pdb
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/Library.genruntimeconfig.cache
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/ref/Library.dll
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.build.Library.props
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Library.props
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Library.props
+/Users/nathangilbert/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/appsettings.Development.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/appsettings.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Resources/2701 - Moby Dick.txt
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Resources/2852 - The Hound Of The Baskervilles.txt
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Resources/98 - A Tale Of Two Cities.txt
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Library.staticwebassets.runtime.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Library
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Library.deps.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Library.runtimeconfig.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Library.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Library.pdb
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/testhost.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.csproj.AssemblyReference.cache
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.AssemblyInfoInputs.cache
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.AssemblyInfo.cs
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.csproj.CoreCompileInputs.cache
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.MvcApplicationPartsAssemblyInfo.cs
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.MvcApplicationPartsAssemblyInfo.cache
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.build.Library.props
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Library.props
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Library.props
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets.build.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/staticwebassets.development.json
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/scopedcss/bundle/Library.styles.css
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.csproj.CopyComplete
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/refint/Library.dll
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.pdb
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/Library.genruntimeconfig.cache
+/Users/hendersongrosvenor/Projects/LibrarySample-master/obj/Debug/net6.0/ref/Library.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/appsettings.Development.json
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/appsettings.json
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Resources/2701 - Moby Dick.txt
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Resources/2852 - The Hound Of The Baskervilles.txt
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Resources/98 - A Tale Of Two Cities.txt
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Library.staticwebassets.runtime.json
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Library
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Library.deps.json
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Library.runtimeconfig.json
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Library.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Library.pdb
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/testhost.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.csproj.AssemblyReference.cache
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.AssemblyInfoInputs.cache
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.AssemblyInfo.cs
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.csproj.CoreCompileInputs.cache
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.MvcApplicationPartsAssemblyInfo.cs
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.MvcApplicationPartsAssemblyInfo.cache
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.Library.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.build.Library.props
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Library.props
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Library.props
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/scopedcss/bundle/Library.styles.css
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.csproj.CopyComplete
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/refint/Library.dll
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.pdb
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/Library.genruntimeconfig.cache
+/Users/nathangilbert/Projects/Che Test for Nlyte/3rd/LibrarySample-master/obj/Debug/net6.0/ref/Library.dll

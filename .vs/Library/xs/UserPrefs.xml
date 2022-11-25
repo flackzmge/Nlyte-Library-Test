@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{E888A3F8-946F-4258-8746-120CA684F29A}|Library_Core">
+  <MonoDevelop.Ide.ItemProperties.Library PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/js/list-renderer.js">
+    <Files>
+      <File FileName="wwwroot/js/list-renderer.js" Line="40" Column="1" />
+      <File FileName="wwwroot/js/data-service.js" Line="1" Column="1" />
+      <File FileName="wwwroot/js/app.js" Line="1" Column="1" />
+      <File FileName="UnitTests/BookRepositoryTest.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="wwwroot/css/library.css" />
+      <File FileName="Resources/2701 - Moby Dick.txt" />
+      <File FileName="Repositories/BookRepository.cs" />
+      <File FileName="Controllers/BooksController.cs" />
+      <File FileName="Models/Book.cs" />
+      <File FileName="Models/WordCount.cs" />
+      <File FileName="Repositories/BookWordsRepository.cs" />
+      <File FileName="UnitTests/BooksWordsRepositoryTest.cs" />
+      <File FileName="Resources/98 - A Tale Of Two Cities.txt" />
+      <File FileName="wwwroot/index.html" />
+      <File FileName="appsettings.json" />
+      <File FileName="Library.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Library" expanded="True">
+            <Node name="Library" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="UnitTests" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="list-renderer.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Library" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

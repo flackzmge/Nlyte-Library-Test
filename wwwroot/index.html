@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="css/library.css" />
+    <script src="js/app.js" type="module"></script>
+    <script src="js/data-service.js" type="module"></script>
+  </head>
+  <body>
+    <div class="output">
+      <!-- The Book Selection section  -->
+      <div id="titles">
+        <!-- This Holds the all the book Names-->
+        <h1>Please select a book</h1>
+        <div id="book-list" onclick="click"></div>
+      </div>
+      <!-- The Result section -->
+      <div id="results">
+        <!-- This holds the results of the search-->
+        <div id="searchArea">
+          <!-- This holds the search bar and the search button-->
+          <input type="text" id="searchTxt" required minlength="3" enable />
+          <input type="button" value="Search" id="searchBtn" />
+        </div>
+        <div id="words">
+          <!-- This holds the words of the book in a box-->
+          <h1 id="word-title"></h1>
+          <table id="word-list"></table>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script>
+    // when a new book is selected wipe the searchTxt field
+    document.getElementById("book-list").addEventListener("click", function () {
+      document.getElementById("searchTxt").value = "";
+    });
+  </script>
+</html>
